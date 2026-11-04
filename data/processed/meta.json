@@ -1,1 +1,12 @@
-{"drug": "SYNTHETIC", "seed": 42, "n_features": 8}
+{
+  "drug": "Trametinib",
+  "seed": 42,
+  "n_total": 712,
+  "n_train": 498,
+  "n_val": 107,
+  "n_test": 107,
+  "n_genes_available": 19193,
+  "n_features": 8,
+  "y_train_mean": 0.17857859437751006,
+  "y_train_std": 2.2309489356841965
+}
