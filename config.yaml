@@ -1,6 +1,6 @@
 seed: 42
 train_seeds: [0, 1, 2]
-drug_name: null
+drug_name: "Trametinib"
 n_features: 8
 n_qubits: 4
 n_layers: 3
