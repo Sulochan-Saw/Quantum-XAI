@@ -1,0 +1,4 @@
+name,seed,p_train,epochs,batch_size,lr,best_epoch,best_val_loss,train_seconds,n_params
+qnn_ideal,0,0.0,60,32,0.01,5,0.8524165826835469,26.6,41
+qnn_ideal,1,0.0,60,32,0.01,39,0.8219581906249326,26.6,41
+qnn_ideal,2,0.0,60,32,0.01,6,0.8276352555681811,26.8,41
